@@ -1,0 +1,27 @@
+git clone https://github.com/lugaltab/Pokemon-main
+dir
+cd Pokemon-main
+dir
+cd backend-pokemon
+dir
+npm install express sqlite3 multer cors
+cd ..
+dir
+cd pokemon
+dir
+npm install
+npm audit fix --force
+cd ..
+dir
+git status
+git add .
+git status
+git commit -m "Atualizando backend e o front
+git pushi
+git push
+doskey /h >comandos.txt
+dir
+cd backend-pokemon
+npm start
+cd ..
+doskey /h >comandos.txt
